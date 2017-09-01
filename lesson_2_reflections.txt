@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+git recognizes the folder as a repository, it actually adds a hidden folder named .git
+we need it to be able to track changes in the repository
